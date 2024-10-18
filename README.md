@@ -30,5 +30,5 @@ By utilizing these prototypes, teams can efficiently set up performance tests fo
 2. Customize the Plan: Modify the parameters, samplers, and assertions as necessary to tailor the test plan for your application.
 3. Run the Test: Execute the test plan in JMeter and monitor the performance of your application.
 
-# Contributing
-We encourage contributions to enhance this collection of test plan prototypes. Feel free to submit your own prototypes, report issues, or suggest improvements.
+# Contributing ❤️
+>> We encourage contributions to enhance this collection of test plan prototypes. Feel free to submit your own prototypes, report issues, or suggest improvements.
